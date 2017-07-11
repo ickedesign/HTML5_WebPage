@@ -21,6 +21,6 @@ HTML5_WebPage
 2. 柱图和散点图用HTML + CSS实现，折线图，雷达图和饼图用Canvas实现
 
 
-### 项目页面
-![pageshot](https://github.com/ickedesign/Vue2.x_SellApp/blob/master/pageshot.jpg)
+
+
 
