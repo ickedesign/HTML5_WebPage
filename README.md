@@ -3,6 +3,10 @@ HTML5_WebPage
 > H5页面组件化开发[Fullpage.js, CSS3, Canvas, JQuery]
 
 ### 页面
+
+![screen_shot1](https://github.com/ickedesign/HTML5_WebPage/blob/master/screen_shot/web1.gif)
+![screen_shot2](https://github.com/ickedesign/HTML5_WebPage/blob/master/screen_shot/web2.gif)
+
 1. 首页Loading图
 2. 生长折线图
 3. 饼图
