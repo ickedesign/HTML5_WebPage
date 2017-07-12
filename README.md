@@ -22,7 +22,7 @@ HTML5_WebPage
 
 ### 功能和技术
 1. 页面DOM操作，使用JQuery；页面切换使用FullPage.js
-2. 柱图和散点图用HTML + CSS3实现，折线图，雷达图和饼图用Canvas实现
+2. 柱图和散点图用CSS3实现，折线图，雷达图和饼图用Canvas实现
 
 
 
